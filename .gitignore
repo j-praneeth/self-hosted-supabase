@@ -83,7 +83,7 @@ next-env.d.ts
 
 # dotenv environment variables file
 .env
- excempt the apps/www .env
+#excempt the apps/www .env
 !apps/www/.env
 .env.tmp
 .env.test
